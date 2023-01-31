@@ -1,0 +1,102 @@
+body {
+    background-color: #DFD087!important;
+}
+
+img {
+    margin-top: 40px;
+    padding-bottom: 40px;
+}
+
+#columna_izquierda {
+    padding: 20px;
+    background-color: #4D5170;
+    color: #DFD087;
+    
+}
+
+.seccion {
+    font-size: 20px;
+    padding: 5px;
+    background-color: #DFD087;
+    color: #4D5170;
+}
+
+
+.institucion {
+    font-weight: bold
+}
+
+.col {
+    
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+#columna_derecha {
+    padding: 20px;
+    color: #4D5170;
+    padding: 20px;
+}
+
+.nombre {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 75px;
+    color: #4D5170
+    
+}
+
+.divisor {
+    height: 5px;
+    background-color: #4D5170;
+    width: 135 px;
+
+}
+
+.profesion {
+    font-weight:bold;
+    font-size: 25px;
+    margin-top: 5px;
+    color: #4D5170
+
+}
+
+.datosPersonales {
+    font-size: 15px;
+}
+
+
+.experiencia {
+    background-color: #4D5170;
+    border-style: solid;
+    font-size: 25px;
+    color: #DFD087;
+}
+
+.tituloNegrita {
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 10px;
+  } 
+
+.ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+.li {
+    position: relative;            
+    margin-bottom: 10px;
+}
+
+#estudios {
+    margin-top: 15px;
+    margin-bottom: 40px;
+    display: none;
+}
+
+#sobre_mi {
+    margin-top: 15px;
+    margin-bottom: 40px;
+    display: none;
+}
